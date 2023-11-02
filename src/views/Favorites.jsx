@@ -14,13 +14,11 @@ const Favorites = () => {
       <div className="p-3 gallery grid-columns-4">
         {favoritas.map((image, id) => (
           <div key={id} className="image-container">
-            <div className="image-wrapper">
               <img src={image.src.tiny} alt={`Imagen ${id + 1}`} />
               <div className="heart-icon">
                 <IconHeart filled={true} />
               </div>
             </div>
-          </div>
         ))}
       </div>
     </div>
