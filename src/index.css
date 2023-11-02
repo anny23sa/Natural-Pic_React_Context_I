@@ -73,8 +73,8 @@ a {
 
 .heart-icon {
   position: absolute;
-  top: 10px; 
-  right: 10px; 
+  top: 20px; 
+  right: 35px; 
   color: white;
   font-size: 24px;
   z-index: 1;
