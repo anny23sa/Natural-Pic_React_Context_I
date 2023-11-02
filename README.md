@@ -1,4 +1,5 @@
-# React + Vite
+Natural Pic (React Context I con Api)
+Galleria de imagenes con Home y Favoritos
 
 ## Install
 
