@@ -10,7 +10,12 @@ body {
 
 h1 {
   margin-bottom: 0;
-  padding-top: 2rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #43a047;
 }
 
 
